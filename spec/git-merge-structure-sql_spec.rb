@@ -20,7 +20,7 @@ RSpec.describe StructureSqlMergeDriver do
 
       expect(
         system(
-          File.realpath('../exe/git-merge-structure-sql', __dir__),
+          File.realpath('../exe/tt-git-merge-structure-sql', __dir__),
           File.join(dir, 'ours'),
           File.join(dir, 'base'),
           File.join(dir, 'theirs')

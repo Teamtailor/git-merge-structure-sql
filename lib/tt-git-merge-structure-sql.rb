@@ -1,10 +1,10 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 #
-# git-merge-structure-sql - git merge driver for db/structure.sql in a Rails project
+# tt-git-merge-structure-sql - git merge driver for db/structure.sql in a Rails project
 #
 # How to use:
-#     $ git-merge-structure-sql --install
+#     $ tt-git-merge-structure-sql --install
 #
 # Copyright (c) 2018-2021 Akinori MUSHA
 #
